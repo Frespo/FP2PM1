@@ -7,3 +7,6 @@ P2P@mbinzi1_uplink:--t control
 #read array: active cdn.mails@cloud.com
 #attribute time: 4-8 hrs. 
 _close header.
+# FP2PM1
+#assigning data to: cdn.mails@cloud.com, please check.
+_opening core base.
