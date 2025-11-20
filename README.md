@@ -12,3 +12,10 @@ _close header.
 _opening core base.
 _pin attained successfully.
 _linking data to core base... 100%.
+# FP2PM1
+# linking server request mode...
+# Relay array request matched:;_
+_//bin.dat@mbinzi1//>-embedded_
+__link.dbms -t:_:_class
+___ </assng.to-cmd.
+______ <cdn.mails@cloud.com/>>
