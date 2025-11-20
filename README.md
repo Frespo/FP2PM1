@@ -10,3 +10,5 @@ _close header.
 # FP2PM1
 #assigning data to: cdn.mails@cloud.com, please check.
 _opening core base.
+_pin attained successfully.
+_linking data to core base... ^78%>
