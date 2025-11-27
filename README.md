@@ -53,7 +53,6 @@ _______ open docker.file
 # Amt: €350,228.00
 # Executed_.
 # Matching Qrs Data via Secure link,_
-# Automating transfer via T.net_DNS
-# End of file.
-# _ metafile: Secure link attained successfully. PDP.dta_+€350,228.00
+# Automating transfer via T.net
+# _ metafile: Secure link attained successfully. PDP.DTA _ +€350,228.00
 ***********************
