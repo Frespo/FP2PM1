@@ -56,3 +56,8 @@ _______ open docker.file
 # Automating transfer via T.net
 # _ metafile: Secure link attained successfully. PDP.DTA _ +€350,228.00
 ***********************
+# FP2PM1
+# Order no: FSWTAJGDSS2686SF
+# Amt: €350,228.00
+# Lead address: ZXT44530213_PPF
+# On pay:- Auth: 2-F barcode to Binance: {12-18hrs} start after asset opening.
