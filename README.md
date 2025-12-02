@@ -61,3 +61,6 @@ _______ open docker.file
 # Amt: €350,228.00
 # Lead address: ZXT44530213_PPF
 # On pay:- Auth: 2-F barcode to Binance: {12-18hrs} start after asset opening.
+{On pay:-} Auth: 2-F barcode to Binance: <executing blob: via_ts-d3b0fe778bc1.js>
+_end file.
+***********************
