@@ -67,7 +67,8 @@ _end file.
 Link on Android MAC IOS_ run:_:_:_
 Test -t control: 192: 168: 100:12/2
 Attained: Php? cdn.mails.ios_<
-[3SF56YT**54]
-Linked:_ run dta. time: 03:50🕔
-# cdn.mails@cloud.com, Linked as "release" pass to Mac IOS: 3SF56YT
-_auth to mac: 2FA: manF.flareSec. <**54>_ as 2FA. ACCADMIN. 
+[win32.cmd]
+Linked:_ run dta. time: 9:36:45🕔
+# cdn.mails@cloud.com, Linked as "release" pass to WINDOWS: (P2P)
+_auth to mac: 2FA: (p2p gateway). <192.168.1.1_ as term. IP: 192.168.1.5. attained successfully.
+Opening gateway...^
