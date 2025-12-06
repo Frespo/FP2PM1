@@ -79,3 +79,4 @@ open: pos: FSWTAJGDSS2687SF
 ping: 192.168.100.12/2 requesting Repo on windows.
 # const: ip on (gateway) _192.168.1.5 is closed.
 Sol: open <gateway>
+gatewa: attained: chunk/chunk/_ const: closed runtime. restart receiver Bin.
