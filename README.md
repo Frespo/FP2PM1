@@ -76,7 +76,9 @@ Order no: FSWTAJGDSS2686SF
 # Amt: €350,228.00
 _cleared. pos: FSWTAJGDSS2686SF
 open: pos: FSWTAJGDSS2687SF
-ping: 192.168.100.12/2 requesting Repo on windows.
-# const: ip on (gateway) _192.168.1.5 is closed.
-Sol: open <gateway>
-gatewa: attained: chunk/chunk/_ const: closed runtime. restart receiver Bin.
+# ping: 192.168.100.12/2 Linked
+# const: ip on (gateway) _192.168.1.5 is Open. 
+# Bin created successfully
+# Time injected EAT: 3:33:27 Am.
+# _ transfer bar: Running 10%...^
+# _ Setting estimated request time: _/_/_.
