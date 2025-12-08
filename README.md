@@ -80,5 +80,5 @@ open: pos: FSWTAJGDSS2687SF
 # const: ip on (gateway) _192.168.1.5 is Open. 
 # Bin created successfully
 # Time injected EAT: 3:33:27 Am.
-# _ transfer bar: Running 10%...^
+# _ transfer bar: Running 100%...^
 # _ Setting estimated request time: _/_/_.
