@@ -86,4 +86,9 @@ open: pos: FSWTAJGDSS2687SF
 # Reading transfer file to Asset...
 1AB {FSWTAJGDSS2687SF} cond. inline.
 # Swift: inline:_ time:_
+# Swift: inline:_ time:_ (asset) open.
+# 1A{FSWTAJGDSS2686SF}:  _ Validated
+# 1AB {FSWTAJGDSS2687SF}:_ Validated
+_ Compiling transfer narrative...
+ ***********************
 ***********************
