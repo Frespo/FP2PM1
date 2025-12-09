@@ -89,6 +89,9 @@ open: pos: FSWTAJGDSS2687SF
 # Swift: inline:_ time:_ (asset) open.
 # 1A{FSWTAJGDSS2686SF}:  _ Validated
 # 1AB {FSWTAJGDSS2687SF}:_ Validated
-_ Compiling transfer narrative...
- ***********************
+# Transfer narrative compiled successfully.
+_Offloading:;- 1A{FSWTAJGDSS2686SF} | 1AB {FSWTAJGDSS2687SF}:; simultaneously to asset binance.
+# Asset target:_ 10%...^
+# End of file.
+***********************
 ***********************
