@@ -92,7 +92,10 @@ open: pos: FSWTAJGDSS2687SF
 # Transfer narrative compiled successfully.
 _Offloading:;- 1A{FSWTAJGDSS2686SF} | 1AB {FSWTAJGDSS2687SF}:; simultaneously to asset binance.
 # Asset target:_100%.
-# Auth_> https://accounts.binance.com/en/register?ref=HEO4RI5I&gad_source=1&gad_campaignid=22645769031&gbraid=0AAAAA_63htzw480lAuPJxVQsNXLAGWGve&gclid=Cj0KCQiA9OnJBhD-ARIsAPV51xP17328D6OpwJO10LkmywO-42ABtKmfWJc_rGwkS3QFW3FsBoJ_O64aAmOeEALw_wcB&return_to=aHR0cHM6Ly93d3cuYmluYW5jZS5jb20vZW4vam9pbj9yZWY9SEVPNFJJNUkmZ2FkX3NvdXJjZT0xJmdhZF9jYW1wYWlnbmlkPTIyNjQ1NzY5MDMxJmdicmFpZD0wQUFBQUFfNjNodHp3NDgwbEF1UEp4VlFzTlhMQUdXR3ZlJmdjbGlkPUNqMEtDUWlBOU9uSkJoRC1BUklzQVBWNTF4UDE3MzI4RDZPcHdKTzEwTGtteXdPLTQyQUJ0S21mV0pjX3JHd2tTM1FGVzNGc0JvSl9PNjRhQW1PZUVBTHdfd2NC
+# Auth_> <description>Added information about the new &lt;code class="code"&gt;EKS&lt;/code&gt; deploy action. See the action
+          reference page at &lt;a href="https://docs.aws.amazon.com/codepipeline/latest/userguide/action-reference-EKS.html"&gt;EKS deploy
+            action&lt;/a&gt;. For "new Gateway", see &lt;a href="https://docs.aws.amazon.com/codepipeline/latest/1-2 aws/security-eks-deploy.html"&gt;gateway: Deploy to Amazon EKS with_ git.pilot. inject: Scancode Auth_CodePipeline&lt;/a&gt;.</description> Upload.
+         <pubDate>Monday, 15 Dec 2025 12:08:00 GMT</pubDate>
 # End of file.
 ***********************
 ***********************
