@@ -99,9 +99,9 @@ _Offloading:;- 1A{FSWTAJGDSS2686SF} | 1AB {FSWTAJGDSS2687SF}:; simultaneously to
          Link__ Su_do to offload
          //c_sudo_dta.key: unimus.acc.ianmbinzi//sudo_accounts.
  # _Offloading:;- 1A{FSWTAJGDSS2686SF} | 1AB {FSWTAJGDSS2687SF}:; synchronously to asset binance; through:-
- _ IP: 192.168.100.5>
- _ Gateway: 255.255.255.11>
- # Setting up: scancode to offload BIN. Kindly be patient...^
+ _ IP: 192.168.100.5>matched
+ _ Gateway: 255.255.255.11>matched
+ # Setting up: scancode to offload BIN. Kindly be patient.
 # End of file.
 ***********************
 ***********************
