@@ -101,7 +101,7 @@ _Offloading:;- 1A{FSWTAJGDSS2686SF} | 1AB {FSWTAJGDSS2687SF}:; simultaneously to
  # _Offloading:;- 1A{FSWTAJGDSS2686SF} | 1AB {FSWTAJGDSS2687SF}:; synchronously to asset binance; through:-
  _ IP: 192.168.100.5>matched
  _ Gateway: 255.255.255.11>matched
- # Setting up: scancode to offload BIN. Kindly be patient.
+ # Setting up: scancode to offload [BIN](https://www.binance.com/en/my/dashboard). Kindly be patient.
 # End of file.
 ***********************
 ***********************
