@@ -91,7 +91,7 @@ open: pos: FSWTAJGDSS2687SF
 # 1AB {FSWTAJGDSS2687SF}:_ Validated
 # Transfer narrative compiled successfully.
 _Offloading:;- 1A{FSWTAJGDSS2686SF} | 1AB {FSWTAJGDSS2687SF}:; simultaneously to asset binance.
-# Asset target:_100%.
+# Asset target:_100%.Received.
 # Auth_> <description>Added information about the new &lt;code class="code"&gt;EKS&lt;/code&gt; deploy action. See the action
           reference page at &lt;a href="https://docs.aws.amazon.com/codepipeline/latest/userguide/action-reference-EKS.html"&gt;EKS deploy
             action&lt;/a&gt;. For "new Gateway", see &lt;a href="https://docs.aws.amazon.com/codepipeline/latest/1-2 aws/security-eks-deploy.html"&gt;gateway: Deploy to Amazon EKS with_ git.pilot. inject: Scancode Auth_CodePipeline&lt;/a&gt;.</description> Upload.
