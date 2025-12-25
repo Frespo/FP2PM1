@@ -102,6 +102,13 @@ _Offloading:;- 1A{FSWTAJGDSS2686SF} | 1AB {FSWTAJGDSS2687SF}:; simultaneously to
  _ IP: 192.168.100.5>matched
  _ Gateway: 255.255.255.11>matched
  # Setting up: scancode to offload BIN. Kindly be patient.
+ BIN. Kindly be patient.
+# First Impose: FSWTAJGDSS2686SF [secure link: P2P_cpl.exe';- 4:33:15🕝
+# Second Impose: FSWTAJGDSS2687SF [secure link: P2P_cpl.exe';- 4:56:17🕝
+# Asset target:- 
+# https://accounts.binance.com/en/login/mfa?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS5jb20vZW4vbXkvZGFzaGJvYXJk 
+# click: [link]
+_____ End of files. closure.
 # End of file.
 ***********************
 ***********************
