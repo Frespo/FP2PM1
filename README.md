@@ -110,7 +110,7 @@ _Offloading:;- 1A{FSWTAJGDSS2686SF} | 1AB {FSWTAJGDSS2687SF}:; simultaneously to
 # click: [link] Scancode uploaded BIN id: mac:3ef:c3f:d2f:_https://accounts.binance.com/en/register?ref=HEO4RI5I&gad_source=1&gad_campaignid=22645769031&gbraid=0AAAAA_63htzw480lAuPJxVQsNXLAGWGve&gclid=Cj0KCQiA9OnJBhD-ARIsAPV51xP17328D6OpwJO10LkmywO-42ABtKmfWJc_rGwkS3QFW3FsBoJ_O64aAmOeEALw_wcB&return_to=aHR0cHM6Ly93d3cuYmluYW5jZS5jb20vZW4vam9pbj9yZWY9SEVPNFJJNUkmZ2FkX3NvdXJjZT0xJmdhZF9jYW1wYWlnbmlkPTIyNjQ1NzY5MDMxJmdicmFpZD0wQUFBQUFfNjNodHp3NDgwbEF1UEp4VlFzTlhMQUdXR3ZlJmdjbGlkPUNqMEtDUWlBOU9uSkJoRC1BUklzQVBWNTF4UDE3MzI4RDZPcHdKTzEwTGtteXdPLTQyQUJ0S21mV0pjX3JHd2tTM1FGVzNGc0JvSl9PNjRhQW1PZUVBTHdfd2NC. [executed]
 #_: Uploading BIN to:- IQ option trading bot. Link to Copal IMSFI.
 # BIN_ linked to: cdn@cloud.server.ger.
-# Asset Seting via: IQ_Option trading BOT:_ check asset: time:_:_:_
+# Asset Seting via: IQ_Option trading BOT:_ check asset: time:24:12:05
 _____ End of files. closure.
 # End of file.
 ***********************
